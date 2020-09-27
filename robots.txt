@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://EthanYidong.github.io/sitemap.xml
